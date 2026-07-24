@@ -178,3 +178,9 @@ g++ -std=c++11 -I./include -o key_management  examples/04_key_management.cpp
 g++ -std=c++11 -I./include -o hotp_demo      examples/05_hotp_demo.cpp
 ```
 
+### 📜 License
+
+This project is licensed under the Apache License 2.0.
+
+For the full license text, please refer to the `LICENSE` file in the repository.
+
